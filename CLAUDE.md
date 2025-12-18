@@ -2,11 +2,11 @@
 
 ## Quick Context
 
-- **Version**: 1.0.0
+- **Version**: 2.16.1
 - **Pattern**: Extension of ReactiveNotifier with undo/redo history tracking
 - **Architecture**: Wrapper and extension pattern with shared mixin functionality
 - **Core Concept**: Time-travel debugging for state management
-- **Dependency**: Requires reactive_notifier ^2.16.0
+- **Dependency**: Requires reactive_notifier ^2.16.1
 - **Key Feature**: Leverages onStateChanged/onAsyncStateChanged hooks for automatic history tracking
 
 ## Core Components

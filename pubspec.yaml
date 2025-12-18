@@ -1,6 +1,6 @@
 name: reactive_notifier_replay
 description: "Undo/Redo functionality extension for ReactiveNotifier - Track state history and enable time-travel debugging for your application state."
-version: 2.16.0
+version: 2.16.1
 homepage: https://github.com/JhonaCodes/reactive_notifier_replay
 repository: https://github.com/JhonaCodes/reactive_notifier_replay
 issue_tracker: https://github.com/JhonaCodes/reactive_notifier_replay/issues
@@ -13,14 +13,14 @@ topics:
   - time-travel
 
 environment:
-  sdk: ^3.5.4
+  sdk: ^3.10.0
   flutter: ">=1.17.0"
 
 dependencies:
   flutter:
     sdk: flutter
 
-  reactive_notifier: ^2.16.0
+  reactive_notifier: ^2.16.1
 
 dev_dependencies:
   flutter_test:

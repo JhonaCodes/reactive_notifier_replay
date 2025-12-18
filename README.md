@@ -26,7 +26,7 @@
 
 ```yaml
 dependencies:
-  reactive_notifier_replay: ^2.16.0
+  reactive_notifier_replay: ^2.16.1
 ```
 
 Then run:
@@ -1037,6 +1037,6 @@ cd example && flutter run
 
 ---
 
-**Made with care by [@jhonacode](https://github.com/jhonacode)**
+**Made with care by [@JhonaCodes](https://github.com/JhonaCodes)**
 
 *reactive_notifier_replay - Time-travel debugging for ReactiveNotifier*
